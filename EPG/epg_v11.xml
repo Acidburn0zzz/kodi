@@ -369,7 +369,6 @@ $(document).ready(function() {
 </tr>
 </table>
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmodskodi%2F&tabs=timeline&width=196&height=350&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:2px solid #f0f0f0;" width="196px" height="350" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe><br /><br /><center><a href='https://www.facebook.com/modskodi/'><img src='http://mods-kodi.pl/testing/themes/mods-kodi/images/facebook.png' width='180' style='margin-bottom:15px;'></a>
 <table style='background-color:#fdfdfd;' width='100%' style='margin-bottom:5px;'><td>
 <center>
 <script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
@@ -451,7 +450,7 @@ $(document).ready(function() {
  <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=105' title='repo.mods-kodi'>repo.mods-kodi</a>
-			<td class='tbl6' align='right'>105631</td>
+			<td class='tbl6' align='right'>105637</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=51' title='m-TVGuide'>m-TVGuide</a>
@@ -459,11 +458,11 @@ $(document).ready(function() {
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=1&download_id=64' title='LIVE TV'>LIVE TV</a>
-			<td class='tbl6' align='right'>90496</td>
+			<td class='tbl6' align='right'>90498</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=14' title='Mrknow - repository.filmkodi.com-2.1.0.zip'>Mrknow - repository...</a>
-			<td class='tbl6' align='right'>85345</td>
+			<td class='tbl6' align='right'>85346</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=1' title='Repository SD-XBMC'>Repository SD-XBMC</a>
@@ -544,15 +543,15 @@ $(document).ready(function() {
 Gości: <b>7</b><br />
 Użytkowników: <b>0</b><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
 <center>Statystyki rejestracji</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Dzisiaj: <b>2</b><br>
-Wczoraj: <b>3</b><br>
-W tym tygodniu: <b>8</b><br>
+Dzisiaj: <b>0</b><br>
+Wczoraj: <b>1</b><br>
+W tym tygodniu: <b>7</b><br>
 W poprzednim tygodniu: <b>16</b><br>
-W tym miesiącu: <b>24</b><br>
+W tym miesiącu: <b>23</b><br>
 W poprzednim miesiącu: <b>93</b><br>
-W tym roku: <b>644</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-<center>Zarejestrowanych: <b>29640</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-<center>Najnowszy: <a  href='../../profile.php?lookup=29820' class='tbl6 avatar-tooltip'><strong>zzrr</strong></a></b></center></td></table></td>
+W tym roku: <b>643</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Zarejestrowanych: <b>29639</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Najnowszy: <a  href='../../profile.php?lookup=29819' class='tbl6 avatar-tooltip'><strong>ptasior87</strong></a></b></center></td></table></td>
 </tr>
 </table>
 ﻿<table cellpadding='0' cellspacing='0' width='100%' class='border'>
@@ -588,7 +587,7 @@ $.lastseenusers.set({
 <table cellpadding='0' cellspacing='0' width='1200' align=''>
 <tr>
 <td height='25' height='25' class='footer' align='center' style='width: 55%; padding-top:15px'>
-<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->71,670,153 unikalnych wizyt</font></td></div>
+<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->71,715,523 unikalnych wizyt</font></td></div>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49762764-2"></script>
 <script>
